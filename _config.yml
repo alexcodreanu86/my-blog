@@ -1,0 +1,11 @@
+# Site settings
+title: My Awesome Blog 
+twitter: alexcodreanu86
+description: "This is my attempt to create my personal blog"
+baseurl: ""
+url: "http://alexcodreanu86.github.io"
+username: alexcodreanu86
+
+# Build settings
+markdown: kramdown
+permalink: pretty
