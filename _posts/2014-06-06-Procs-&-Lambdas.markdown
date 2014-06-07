@@ -2,7 +2,6 @@
 layout: post
 title:  "Procs & Lambdas"
 date:   2014-06-06 20:21:00
-categories: teaching myself how to learn 
 ---
 
 I wrote my first ‘Hello world!’ in Ruby about three years ago and it was love at first site. Since then I have tried to learn all its in’s and out’s. It has been a while since I first heard about procs and lambdas, but I have always avoided using them until recently.
